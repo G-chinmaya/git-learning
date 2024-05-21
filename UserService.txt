@@ -1,2 +1,4 @@
 Get the user data
 save in db maiidatabase
+
+create avatar for userr and try the code
